@@ -1,3 +1,5 @@
+原文链接：https://javaguide.cn/database/mysql/mysql-index.html
+
 # MySQL索引详解
 
 但凡经历过几场面试的小伙伴，应该都清楚，数据库索引这个知识点在面试中出现的频率高到离谱。
