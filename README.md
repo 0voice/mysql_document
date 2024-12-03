@@ -145,6 +145,16 @@
 ##### [mysql面试题.md](https://github.com/0voice/mysql_document/blob/main/mysql%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 ##### [第二版：MySQL索引+6+道.pdf](https://github.com/0voice/mysql_document/blob/main/%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%9AMySQL%E7%B4%A2%E5%BC%95%2B6%2B%E9%81%93.pdf)
 ##### [MySQL55题答案.pdf](https://github.com/0voice/mysql_document/blob/main/MySQL55%E9%A2%98%E7%AD%94%E6%A1%88.pdf)
+##### [1.MySQL 基础.md](https://github.com/0voice/mysql_document/blob/main/1.MySQL%20%E5%9F%BA%E7%A1%80.md)
+##### [2.MySQL 字段类型.md](https://github.com/0voice/mysql_document/blob/main/2.MySQL%20%E5%AD%97%E6%AE%B5%E7%B1%BB%E5%9E%8B.md)
+##### [3.MySQL 基础架构.md](https://github.com/0voice/mysql_document/blob/main/3.MySQL%20%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84.md)
+##### [4.MySQL 存储引擎.md](https://github.com/0voice/mysql_document/blob/main/4.MySQL%20%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E.md)
+##### [5.MySQL 索引.md](https://github.com/0voice/mysql_document/blob/main/5.MySQL%20%E7%B4%A2%E5%BC%95.md)
+##### [6.MySQL 查询缓存.md](https://github.com/0voice/mysql_document/blob/main/6.MySQL%20%E6%9F%A5%E8%AF%A2%E7%BC%93%E5%AD%98.md)
+##### [7.MySQL 事务.md](https://github.com/0voice/mysql_document/blob/main/7.MySQL%20%E4%BA%8B%E5%8A%A1.md)
+##### [8.MySQL 锁.md](https://github.com/0voice/mysql_document/blob/main/8.MySQL%20%E9%94%81.md)
+##### [9.MySQL 性能优化.md](https://github.com/0voice/mysql_document/blob/main/9.MySQL%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
+##### [10.MySQL 学习资料推荐.md](https://github.com/0voice/mysql_document/blob/main/10.MySQL%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E6%8E%A8%E8%8D%90.md)
 
 
 
