@@ -155,7 +155,7 @@
 ##### [8.MySQL 锁.md](https://github.com/0voice/mysql_document/blob/main/8.MySQL%20%E9%94%81.md)
 ##### [9.MySQL 性能优化.md](https://github.com/0voice/mysql_document/blob/main/9.MySQL%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
 ##### [10.MySQL 学习资料推荐.md](https://github.com/0voice/mysql_document/blob/main/10.MySQL%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E6%8E%A8%E8%8D%90.md)
-
+##### [50道MySQL面试题.md](https://github.com/0voice/mysql_document/blob/main/50%E9%81%93MySQL%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 
 <br/>
