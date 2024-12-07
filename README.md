@@ -161,6 +161,8 @@
 ##### [最常问的MySQL面试题集合.md](https://github.com/0voice/mysql_document/blob/main/%E6%9C%80%E5%B8%B8%E9%97%AE%E7%9A%84MySQL%E9%9D%A2%E8%AF%95%E9%A2%98%E9%9B%86%E5%90%88.md)
 ##### [很用心的为你写了 9 道 MySQL 面试题.md](https://github.com/0voice/mysql_document/blob/main/%E5%BE%88%E7%94%A8%E5%BF%83%E7%9A%84%E4%B8%BA%E4%BD%A0%E5%86%99%E4%BA%86%209%20%E9%81%93%20MySQL%20%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 ##### [40道MySql核心面试题汇总.md](https://github.com/0voice/mysql_document/blob/main/40%E9%81%93MySql%E6%A0%B8%E5%BF%83%E9%9D%A2%E8%AF%95%E9%A2%98%E6%B1%87%E6%80%BB.md)
+##### [这些年背过的面试题——MySQL篇.md](https://github.com/0voice/mysql_document/blob/main/%E8%BF%99%E4%BA%9B%E5%B9%B4%E8%83%8C%E8%BF%87%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98%E2%80%94%E2%80%94MySQL%E7%AF%87.md)
+
 
 
 <br/>
