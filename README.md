@@ -189,7 +189,7 @@
 ##### [MySQL衍生开源项目推荐.md](https://github.com/0voice/mysql_document/blob/main/MySQL%E8%A1%8D%E7%94%9F%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90.md)
 ##### [MySQL精选开源项目推荐.md](https://github.com/0voice/mysql_document/blob/main/MySQL%E7%B2%BE%E9%80%89%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90.md)
 ##### [MySQL开源项目推荐.md](https://github.com/0voice/mysql_document/blob/main/MySQL%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90.md)
-##### []()
+##### [MySQL开源项目1:phpMyAdmin.md](https://github.com/0voice/mysql_document/blob/main/MySQL%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE1%3AphpMyAdmin.md)
 ##### []()
 ##### []()
 
